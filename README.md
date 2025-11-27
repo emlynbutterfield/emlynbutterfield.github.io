@@ -1,7 +1,7 @@
 # Emlyn Butterfield
 ## Bachelor in Digital Forensics Student at Noroff University College
 
-[https://www.linkedin.com/in/emlynbutterfield/] | [emlyn.butterfield@noroff.no]
+https://www.linkedin.com/in/emlynbutterfield/ | emlyn.butterfield@noroff.no
 
 ---
 
